@@ -57,8 +57,8 @@
 #### 모델링
 <div align="left">
 
-  <img src="https://github.com/user-attachments/assets/56041ca8-61bb-47a4-af47-b767978143c9" width="30%" height="380"/>
-  <img src="https://github.com/user-attachments/assets/0d85af17-681d-40ac-ad4e-53704b76ab70" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/56041ca8-61bb-47a4-af47-b767978143c9" width="35%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/0d85af17-681d-40ac-ad4e-53704b76ab70" width="35%" height="380"/>
 
 </div>
 
@@ -83,14 +83,14 @@
 #### AR 설명서 실행
 <div align="left">
 
-  <img src="https://github.com/user-attachments/assets/35ade444-bde5-4033-82dc-646a1d8b232e" width="30%" height="380"/>
-  <img src="https://github.com/user-attachments/assets/36fedaba-9c35-40b8-9448-b71c5c2692ac" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/35ade444-bde5-4033-82dc-646a1d8b232e" width="35%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/36fedaba-9c35-40b8-9448-b71c5c2692ac" width="35%" height="380"/>
 
 </div>
 <div align="left">
 
-  <img src="https://github.com/user-attachments/assets/d831e98f-870f-46f6-a72f-cd86649d45ee" width="30%" height="380"/>
-  <img src="https://github.com/user-attachments/assets/ac53342f-41f9-4071-a2ea-998ef8264cf8" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/d831e98f-870f-46f6-a72f-cd86649d45ee" width="35%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/ac53342f-41f9-4071-a2ea-998ef8264cf8" width="35%" height="380"/>
 
 </div>
 
@@ -104,7 +104,6 @@
 
 ## 8. 플레이 영상
 + https://www.youtube.com/watch?v=zeMj6LFLNMg
-+ 
 
 ---
 
