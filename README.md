@@ -37,11 +37,10 @@
 ## 3. 사용 기술
 | 기술 | 설명 |
 |:---:|:---|
-| Image Targets | Grab, OVRInput, Haptics, Hand Grab Pose, Ray |
-| modeling | 미션 UI의 팔로우 로직 및 방패 찍기 구현 |
-| Prefab | scrollView와 더불어 캐릭터 선택 UI 구현 |
-| Rigidbody, Collider | 성능의 최적화를 위해 라이트맵을 이용하여 게임 맵 구성 fps 40->60 |
-| 바코드스캐너 | 방패 던지기 방향 구현 |
+| Image Targets | 도면 인식 |
+| modeling | 구현하고자 하는 가구 모델링 |
+| Prefab | 부품들 생성 |
+| Rigidbody, Collider | 부품끼리 충돌 확인 |
 
 <br>
 
@@ -55,34 +54,48 @@
 ## 5. 핵심 기능
 
 
+#### 모델링
+<div align="left">
+
+  <img src="https://github.com/user-attachments/assets/56041ca8-61bb-47a4-af47-b767978143c9" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/0d85af17-681d-40ac-ad4e-53704b76ab70" width="30%" height="380"/>
+
+</div>
+
++ 최대한 실제와 같도록 모델링
+
 #### 바코드 스캔
  //영상 필요
 
-+ Controller의 Thumbstick 으로 좌우 이동
-+ Controller의 A버튼 클릭하면 캐릭터 선택 완료, 게임씬으로 전환
++ QR Code 버튼 클릭하면 QR코드 스캐너가 나옴 
 
 
 #### 설명서 링크 다운로드
-<div align="center">
+<div align="left">
 
   //영상 필요
 
 </div>
 
-+ 자동 이동
-+ Leap : Contoller의 A 버튼을 이용하여 이동 가능
++ Menual 버튼 클릭하면 설명서 pdf 파일 다운로드 가능
 
 
 #### AR 설명서 실행
-<div align="center">
+<div align="left">
 
-  <img src="https://github.com/user-attachments/assets/e561759c-4568-4fc2-9fe4-ba2b972b0adb" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/a9fb460c-7c83-4f43-928b-f6cc181c6bed" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/35ade444-bde5-4033-82dc-646a1d8b232e" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/36fedaba-9c35-40b8-9448-b71c5c2692ac" width="30%" height="380"/>
+
+</div>
+<div align="left">
+
+  <img src="https://github.com/user-attachments/assets/d831e98f-870f-46f6-a72f-cd86649d45ee" width="30%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/ac53342f-41f9-4071-a2ea-998ef8264cf8" width="30%" height="380"/>
 
 </div>
 
-+ 방패 던지기 : Controller의 HandTrigger버튼으로 조작 가능
-+ 방패 찍기 : Controller의 IndexTrigger 버튼으로 조작 가능
++ Funiture 버튼 글릭하면 AR 설명서 실행
++ 도면을 인식하면 증강현실로 설명서를 볼 수 있다.
 
 
 <br>
