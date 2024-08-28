@@ -11,6 +11,7 @@
   <img src="https://github.com/user-attachments/assets/bcf4ec01-1e57-49a9-8721-ad32e5d6c390" width="30%" height="380"/>
   <img src="https://github.com/user-attachments/assets/8431a7ea-f83d-4e6a-b029-e651fd9fe05d" width="90%" height="400"/>
 
+<앱 실행사진>
 
 </div>
 
