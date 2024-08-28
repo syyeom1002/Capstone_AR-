@@ -64,8 +64,14 @@
 
 + 최대한 실제와 같도록 모델링
 
+
 #### 바코드 스캔
- //영상 필요
+<div align="left">
+
+  <img src="https://github.com/user-attachments/assets/5143f74b-37cb-442e-96b9-ffecc340be5b" width="35%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/63144454-22e3-4563-9d76-eee9342e907e" width="35%" height="380"/>
+
+</div>
 
 + QR Code 버튼 클릭하면 QR코드 스캐너가 나옴 
 
@@ -73,7 +79,8 @@
 #### 설명서 링크 다운로드
 <div align="left">
 
-  //영상 필요
+  <img src="https://github.com/user-attachments/assets/1babf457-7a69-4b04-a50e-709d8b12cc24" width="35%" height="380"/>
+  <img src="https://github.com/user-attachments/assets/1b3f7abc-3b30-4d15-9bd4-5881ae7f58d7" width="35%" height="380"/>
 
 </div>
 
